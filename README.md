@@ -10,6 +10,7 @@ Este projeto é um aplicativo de chatbot em [Streamlit](https://streamlit.io/) q
 ![Upload de arquivos](images/screenshot2.png)
 ![Chat em funcionamento](images/screenshot3.png)
 
+(O app também pode ser visto através do link https://projeto-chat-oraculo.streamlit.app/)
 ---
 
 ## Funcionalidades
